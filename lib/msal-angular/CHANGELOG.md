@@ -1,8 +1,17 @@
 # Change Log - @azure/msal-angular
 
-This log was last generated on Mon, 04 Apr 2022 21:12:41 GMT and should not be manually modified.
+This log was last generated on Wed, 27 Apr 2022 22:27:58 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.3.0
+
+Wed, 27 Apr 2022 22:27:58 GMT
+
+### Minor changes
+
+- Add support for acquiring tokens from the native broker #4531 (thomas.norling@microsoft.com)
+- Bump @azure/msal-browser to v2.24.0
 
 ## 2.2.0
 
